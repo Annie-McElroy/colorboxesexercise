@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import ColorBox from './components/ColorBox';
+import BoxContainer from './components/BoxContainer';
 
 function App() {
   return (
     <div className="App">
-      <ColorBox />
+      <BoxContainer />
     </div>
   );
 }

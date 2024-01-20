@@ -2,3 +2,11 @@
     height: 20em;
     width: 20em;
 }
+
+.BoxContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
